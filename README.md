@@ -10,6 +10,7 @@ A soundtracks (and potentially classical music) guessing game like Wordle.
 
 ## Gameplay
 n = 1
+```text
 While not won:
     User hears n seconds of a song clip. 
     Choose from a list of movies which movie it's from.
@@ -20,6 +21,7 @@ While not won:
         Yellow guess if correct composer
         Else red
         n *= 2
+```
 
 ## Components
 The game itself
