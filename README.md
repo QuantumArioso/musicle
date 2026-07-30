@@ -9,8 +9,8 @@ A soundtracks (and potentially classical music) guessing game like Wordle.
     - Is there something better/cheaper than AWS?
 
 ## Gameplay
-n = 1
 ```text
+n = 1
 While not won:
     User hears n seconds of a song clip. 
     Choose from a list of movies which movie it's from.
